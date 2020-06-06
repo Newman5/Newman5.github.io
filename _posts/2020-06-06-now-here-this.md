@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: First post on my very own
+published: true
 ---
 ## A New Post
 
